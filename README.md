@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 **Bienvenido a mi perfil de github**</h1>
+  <h1>👋 **Bienvenido a mi perfil de github</h1>
   <p>Desarrollador Web Full Stack | React • Node.js • Python • Java</p>
   <p>
     <a href="https://komarev.com/ghpvc/?username=oliverio12">
