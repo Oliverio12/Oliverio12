@@ -1,76 +1,80 @@
-<div align="center">
-  <h1>👋 Bienvenido a mi perfil de github</h1>
-  <p>Desarrollador Web Full Stack | React • Node.js • Python • Java</p>
-  <p>
-    <a href="https://komarev.com/ghpvc/?username=oliverio12">
-      <img src="https://komarev.com/ghpvc/?username=oliverio12&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil"/>
-    </a>
-    <a href="https://github.com/oliverio12">
-      <img src="https://img.shields.io/github/followers/oliverio12?label=Seguidores&style=social" alt="Seguidores GitHub"/>
-    </a>
-  </p>
-</div>
-
----
-
-## 🧑‍💻 Sobre mí
-Desarrollador web, experiencia en:
-- **Frontend:** React, HTML5, CSS3, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js (Express), Python (Flask), Java  
-- **Móvil & UI/UX:** Flutter, Android, Figma  
-- **DevOps & BD:** Docker, Git, MongoDB, PostgreSQL, MySQL, Firebase  
-
----
-
-## 🚀 Habilidades
-
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"      alt="React"    width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"   alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"     alt="CSS3"    width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"                                   alt="Tailwind" width="40" height="40" />
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"   alt="Node.js"  width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express"  width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"            alt="Python"  width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg"                                 alt="Flask"    width="40" height="40" />
-
-  <!-- Móvil & UI/UX -->
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"                                      alt="Flutter"  width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android"  width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"                                               alt="Figma"    width="40" height="40" />
-
-  <!-- DevOps & BD -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"   alt="Docker"   width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg"                  alt="Git"      width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"  width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"     alt="MySQL"    width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"                                         alt="Firebase" width="40" height="40" />
-</div>
-
----
-
-## 📫 Conéctate conmigo
+<h1 align="center">👋 Bienvenido a mi perfil de github</h1>
 
 <p align="center">
-  <a href="mailto:rodrigozavaleta12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rodrigo-fernandez-761922270/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=oliverio12&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Perfil visitas" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-trophy.vercel.app/?username=oliverio12&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
 ---
 
-## 📈 Mis estadísticas
+## 🚀 Sobre mí
+Desarrollador Web con experiencia en **React**, **Node.js (Express)**, **Python** y **Java**. 
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oliverio12&show_icons=true&theme=radical"       alt="Estadísticas" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliverio12&theme=radical"                      alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverio12&layout=compact&theme=radical" alt="Lenguajes" />
-</div>
+## 🛠️ Tecnologías y Herramientas
+
+<table>
+  <tr>
+    <th align="left">Frontend</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Backend</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">Móvil & UI/UX</th>
+    <td>
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left">DevOps & BD</th>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg" alt="Git" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Contacto
+
+- ✉️ [rodrigozavaleta12@gmail.com](mailto:rodrigozavaleta12@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rodrigo-fernandez-761922270/)  
+
+---
+
+## 📊 Mis estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oliverio12&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverio12&layout=compact&theme=radical" alt="Principales lenguajes" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliverio12&theme=radical" alt="Streak de GitHub" />
+</p>
