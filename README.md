@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 **Bienvenido a mi perfil de github</h1>
+  <h1>👋 Bienvenido a mi perfil de github</h1>
   <p>Desarrollador Web Full Stack | React • Node.js • Python • Java</p>
   <p>
     <a href="https://komarev.com/ghpvc/?username=oliverio12">
@@ -54,22 +54,6 @@ Desarrollador web, experiencia en:
 
 ---
 
-## 📂 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/oliverio12/proyecto-ejemplo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverio12&repo=proyecto-ejemplo-1&theme=radical" alt="Proyecto 1" />
-  </a>
-  <a href="https://github.com/oliverio12/proyecto-ejemplo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverio12&repo=proyecto-ejemplo-2&theme=radical" alt="Proyecto 2" />
-  </a>
-  <a href="https://github.com/oliverio12/proyecto-ejemplo-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=oliverio12&repo=proyecto-ejemplo-3&theme=radical" alt="Proyecto 3" />
-  </a>
-</div>
-
----
-
 ## 📫 Conéctate conmigo
 
 <p align="center">
@@ -78,9 +62,6 @@ Desarrollador web, experiencia en:
   </a>
   <a href="https://www.linkedin.com/in/rodrigo-fernandez-761922270/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/tu_usuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
